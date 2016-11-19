@@ -1,0 +1,105 @@
+/************Global Styles***************/
+body {
+    font-family: 'Bitter',Times,serif;
+    text-transform: uppercase;
+    text-align: justify;
+    width: 658px;
+	margin-right: auto;
+	margin-left: auto;
+	background: white;
+	line-height: 1.1;
+    border: 2px solid black;
+    padding: 36px;
+}
+
+h1, h2, p, div {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    width: auto;
+    align-content: center;
+    padding: 10px;
+}
+
+/************Text Styles***************/
+h1 {
+    font-size: 135px;
+    font-weight: 100;
+
+}
+
+h2 {
+    font-size: 100px;
+    font-weight: normal;
+
+}
+.smPar {
+    float: left;
+    background: purple;
+    width: 330px;
+    padding: 0;
+}
+
+.bigWord {
+    font-size: 140px;
+    font-weight: 100;
+    background: blue;
+    float: left;
+    width: 308px;
+    line-height: .90;
+    padding: 0 15px 0 5px;
+}
+
+.med-large {
+    font-size: 37px;
+    font-weight: 500;
+}
+
+#midPart {
+    background: red;
+    clear: both;
+ }
+
+.smallest {
+    font-size: 20px;
+    font-weight:
+}
+
+.small {
+    font-size: 23px;
+    font-weight:
+}
+
+.smaller {
+    font-size: 22.8px;
+}
+
+.sm-medium {
+    font-size: 30px;
+    font-weight:
+}
+
+.medium {
+    font-size: 31px;
+}
+
+#midPart .medium {
+    font-size: 29.4px;
+}
+
+span:nth-of-type(5) {
+   font-size: 26px;
+}
+
+#midPart .med-large {
+    font-size: 36px;
+    letter-spacing: .3px;
+}
+
+.large {
+    font-size: 50px;
+    font-weight:
+}
+
